@@ -3,7 +3,7 @@
 ## Team Information
 
 **Project Name**: Climate Change Analysis Dashboard  
-**Event**: Code Slayer Hackathon  
+**Event**: Deep Data Hackthon 2.0  
 **Date**: October 2025  
 **Duration**: Intensive development sprint
 
@@ -49,4 +49,4 @@ This project provides actionable insights for:
 
 ---
 
-*This project was developed during the Code Slayer Hackathon with focus on creating practical, evidence-based solutions for climate change challenges.*
+*This project was developed during the Deep Data Hackthon 2.0 with focus on creating practical, evidence-based solutions for climate change challenges.*

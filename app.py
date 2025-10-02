@@ -2,7 +2,7 @@
 Climate Change Analysis Dashboard
 =================================
 
-Authors: Data Science Team - Code Slayer Hackathon
+Authors: Data Science Team - Deep Data Hackthon 2.0
 Date: October 2025
 Description: Interactive dashboard for climate change data analysis and policy recommendations
 
@@ -97,7 +97,7 @@ def introduction_page():
     """Introduction and overview page"""
     st.title("🌍 Climate Change Analysis Dashboard")
     st.markdown("### Evidence-Based Insights for Environmental Policy")
-    st.markdown("**By**: Data Science Team - Code Slayer Hackathon | **Date**: October 2024")
+    st.markdown("**By**: Data Science Team - Deep Data Hackthon 2.0 | **Date**: October 2024")
     
     col1, col2 = st.columns([2, 1])
     

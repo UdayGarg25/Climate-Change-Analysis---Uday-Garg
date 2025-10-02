@@ -1,6 +1,6 @@
 # 🌍 Climate Change Analysis Dashboard
 
-**Authors**: Data Science Team - Code Slayer Hackathon  
+**Authors**: Data Science Team - Deep Data Hackthon 2.0  
 **Project Duration**: October 2025  
 **Technologies**: Python, Jupyter, Streamlit, Plotly, Scikit-learn
 
@@ -236,7 +236,7 @@ This project was developed for educational and policy research purposes as part 
 ```text
 Climate Change Analysis Dashboard (2024)
 Comprehensive EDA and Policy Framework for Environmental Decision-Making
-Authors: Data Science Team - Code Slayer Hackathon
+Authors: Data Science Team - Deep Data Hackthon 2.0
 ```
 
 ## 🆘 Troubleshooting
